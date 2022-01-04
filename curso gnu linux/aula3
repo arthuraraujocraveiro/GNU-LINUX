@@ -1,0 +1,24 @@
+-> Instalar SO
+
+1. O que é ?
+    1.1 A máquina não tem SO, mas sim componentes!
+    1.2 O sistema operacional é carregado ou "colocado para rodar" através de um bootloader !
+    1.3 O sistema é carregado através de algum dispositivo de armazenamento (HD, SSD, REDE, PENDRIVE) !
+    1.4 Quando instalou , quer dizer copiou os arquivos para o dispositivo de armazenamento ! 
+    
+2. O que é preciso para instalar ?
+    2.1 copiar os arquivos (progrmas, bibliotecas, ...)
+    2.2 preparar para boot
+    2.3 precisa de um sistema operacional rodando para instalar um SO ! 
+    
+3. Como ? 
+    3.1 o sistema operacional tem um instalador para instalar ! 
+    3.2 geralmente um versão reduzida ! 
+    
+4. pendrive 
+    4.1 copiar os arquivos e preparar para boot ! 
+        
+
+
+
+

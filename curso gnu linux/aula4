@@ -1,0 +1,19 @@
+
+--> Modelo Mental
+
+1. Partes 
+   BIOS/UEFI
+   Particionamento -> MBR/DOS ou GPT
+   Bootloader -> GRUB
+   Kernel -> arquivo que fica /boot/
+   Initrd -> 
+   Shell -> linguagem que interpreta comandos 
+   
+2. Como funciona ? 
+    
+   
+ 
+
+
+
+
